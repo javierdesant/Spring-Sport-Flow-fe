@@ -30,3 +30,7 @@ Thumbs.db
 # Ignore miscellaneous:
 *.min.js
 *.min.css
+
+# Ignore configuration files:
+*.config.js
+*.config.ts
